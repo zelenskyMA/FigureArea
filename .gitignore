@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FigureAreaCalculation/bin/Debug/netcoreapp3.1
+/FigureAreaCalculation/.vs/FigureAreaCalculation
+/FigureAreaCalculation/obj
+/.vs/FigureAreaCalculation/v16
+/FigureAreaCalculation.Tests/bin/Debug/netcoreapp3.1
+/FigureAreaCalculation.Tests/obj
